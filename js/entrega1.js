@@ -6,7 +6,7 @@ let nombre = prompt("¿Como te llamas?");
 alert("Hola " + nombre);
 let RESULTADO;
 
-let respuesta = prompt("¿Me darías dos numeros para sumarlos?");
+let respuesta = prompt("¿Me darías dos numeros para sumarlos?(Si/No)");
 
 if (respuesta == "Si" || respuesta == "si"){
 	var1 = Number(prompt("Primer número"));
