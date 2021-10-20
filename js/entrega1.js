@@ -17,3 +17,5 @@ if (respuesta == "Si" || respuesta == "si"){
 	RESULTADO = 0;
 	alert("Esta bien :C");
 }
+
+//Entrega 1 Nicolas Soto
